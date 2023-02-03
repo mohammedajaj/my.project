@@ -1,2 +1,2 @@
-# my.project
+# My-Project
 from mohamed my project
